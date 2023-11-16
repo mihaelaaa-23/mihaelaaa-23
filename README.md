@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihaelaaa-23
 - 👀 I’m interested in languages and coding languages
-- 🌱 I’m currently learning how to use HTML, CSS and JS together
+- 🌱 Python, Java, C, C++
 - 💞️ I’m looking to collaborate on enhancing my abilities in coding 
 - 📫 How to reach me mihaela.untu@gmail.com
 
