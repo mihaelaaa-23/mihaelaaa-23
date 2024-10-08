@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihaela
 - 👀 I’m interested in Computer Science
-- 🌱 Python, Java, C, C++, php, HTML & CSS
+- 🌱 Node.JS, Nest.JS, HTML & CSS, React, Python, Java, C, C++
 - 💞️ I’m looking to collaborate on enhancing my abilities in coding 
 <!--- - 📫 How to reach me mihaela.untu@gmail.com
 
